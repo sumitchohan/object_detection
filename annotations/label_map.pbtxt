@@ -1,9 +1,136 @@
 item {
   id: 1
-  name: 'Millennium Falcon'
+  name: 'archer'
 }
-
 item {
   id: 2
-  name: 'Tie Fighter'
+  name: 'babydragon'
+}
+item {
+  id: 3
+  name: 'barb'
+}
+item {
+  id: 4
+  name: 'bowler'
+}
+item {
+  id: 5
+  name: 'clone'
+}
+item {
+  id: 6
+  name: 'dragon'
+}
+item {
+  id: 7
+  name: 'electro'
+}
+item {
+  id: 8
+  name: 'eq'
+}
+item {
+  id: 9
+  name: 'freeze'
+}
+item {
+  id: 10
+  name: 'giant'
+}
+item {
+  id: 11
+  name: 'goblin'
+}
+item {
+  id: 12
+  name: 'golem'
+}
+item {
+  id: 13
+  name: 'haste'
+}
+item {
+  id: 14
+  name: 'heal'
+}
+item {
+  id: 15
+  name: 'healer'
+}
+item {
+  id: 16
+  name: 'hog'
+}
+item {
+  id: 17
+  name: 'jump'
+}
+item {
+  id: 18
+  name: 'king'
+}
+item {
+  id: 19
+  name: 'lava'
+}
+item {
+  id: 20
+  name: 'lightening'
+}
+item {
+  id: 21
+  name: 'loon'
+}
+item {
+  id: 22
+  name: 'miner'
+}
+item {
+  id: 23
+  name: 'minion'
+}
+item {
+  id: 24
+  name: 'pekka'
+}
+item {
+  id: 25
+  name: 'poison'
+}
+item {
+  id: 26
+  name: 'queen'
+}
+item {
+  id: 27
+  name: 'rage'
+}
+item {
+  id: 28
+  name: 'seigemachine'
+}
+item {
+  id: 29
+  name: 'skeleton'
+}
+item {
+  id: 30
+  name: 'valk'
+}
+item {
+  id: 31
+  name: 'wallbreaker'
+}
+item {
+  id: 32
+  name: 'warden'
+}
+item {
+  id: 33
+  name: 'witch'
+}
+item {
+  id: 34
+  name: 'wizard'
 }
