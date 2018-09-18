@@ -28,76 +28,10 @@ FLAGS = flags.FLAGS
 
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
-    if row_label == 'archer':
+    if row_label == 'bmw':
         return 1
-    if row_label == 'babydragon':
+    if row_label == 'vw':
         return 2
-    if row_label == 'barb':
-        return 3
-    if row_label == 'bowler':
-        return 4
-    if row_label == 'class':
-        return 5
-    if row_label == 'clone':
-        return 6
-    if row_label == 'dragon':
-        return 7
-    if row_label == 'electro':
-        return 8
-    if row_label == 'eq':
-        return 9
-    if row_label == 'freeze':
-        return 10
-    if row_label == 'giant':
-        return 11
-    if row_label == 'goblin':
-        return 12
-    if row_label == 'golem':
-        return 13
-    if row_label == 'haste':
-        return 14
-    if row_label == 'heal':
-        return 15
-    if row_label == 'healer':
-        return 16
-    if row_label == 'hog':
-        return 17
-    if row_label == 'jump':
-        return 18
-    if row_label == 'king':
-        return 19
-    if row_label == 'lava':
-        return 20
-    if row_label == 'lightening':
-        return 21
-    if row_label == 'loon':
-        return 22
-    if row_label == 'miner':
-        return 23
-    if row_label == 'minion':
-        return 24
-    if row_label == 'pekka':
-        return 25
-    if row_label == 'poison':
-        return 26
-    if row_label == 'queen':
-        return 27
-    if row_label == 'rage':
-        return 28
-    if row_label == 'seigemachine':
-        return 29
-    if row_label == 'skeleton':
-        return 30
-    if row_label == 'valk':
-        return 31
-    if row_label == 'wallbreaker':
-        return 32
-    if row_label == 'warden':
-        return 33
-    if row_label == 'witch':
-        return 34
-    if row_label == 'wizard':
-        return 35
     else:
         None
 

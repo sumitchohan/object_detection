@@ -1,230 +1,242 @@
 <annotation>
-  <folder>images</folder>
-  <filename>cap_2018-09-17T22_07_30</filename>
-  <path>C:\Work\GH\TF\images\cap_2018-09-17T22_07_30.png</path>
+  <folder>logos</folder>
+  <filename>Capture</filename>
+  <path>C:\Work\GH\object_detection\logos\Capture.JPG</path>
   <source>
     <database>Unknown</database>
   </source>
   <size>
-    <width>800</width>
-    <height>666</height>
+    <width>1417</width>
+    <height>580</height>
     <depth>3</depth>
   </size>
   <segmented>0</segmented>
   <object>
-    <name>lava</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>506</xmin>
-      <ymin>161</ymin>
-      <xmax>569</xmax>
-      <ymax>225</ymax>
+      <xmin>67</xmin>
+      <ymin>18</ymin>
+      <xmax>239</xmax>
+      <ymax>177</ymax>
     </bndbox>
   </object>
   <object>
-    <name>minion</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>579</xmin>
-      <ymin>163</ymin>
-      <xmax>643</xmax>
-      <ymax>225</ymax>
+      <xmin>327</xmin>
+      <ymin>11</ymin>
+      <xmax>506</xmax>
+      <ymax>182</ymax>
     </bndbox>
   </object>
   <object>
-    <name>loon</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>647</xmin>
-      <ymin>162</ymin>
-      <xmax>710</xmax>
-      <ymax>224</ymax>
+      <xmin>525</xmin>
+      <ymin>6</ymin>
+      <xmax>718</xmax>
+      <ymax>177</ymax>
     </bndbox>
   </object>
   <object>
-    <name>archer</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>718</xmin>
-      <ymin>162</ymin>
-      <xmax>778</xmax>
-      <ymax>227</ymax>
+      <xmin>809</xmin>
+      <ymin>8</ymin>
+      <xmax>936</xmax>
+      <ymax>127</ymax>
     </bndbox>
   </object>
   <object>
-    <name>wizard</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>18</xmin>
-      <ymin>349</ymin>
-      <xmax>83</xmax>
-      <ymax>437</ymax>
+      <xmin>1025</xmin>
+      <ymin>6</ymin>
+      <xmax>1175</xmax>
+      <ymax>150</ymax>
     </bndbox>
   </object>
   <object>
-    <name>dragon</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>94</xmin>
-      <ymin>348</ymin>
-      <xmax>183</xmax>
-      <ymax>437</ymax>
+      <xmin>1241</xmin>
+      <ymin>18</ymin>
+      <xmax>1354</xmax>
+      <ymax>119</ymax>
     </bndbox>
   </object>
   <object>
-    <name>babydragon</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>190</xmin>
-      <ymin>349</ymin>
-      <xmax>279</xmax>
-      <ymax>437</ymax>
+      <xmin>7</xmin>
+      <ymin>203</ymin>
+      <xmax>199</xmax>
+      <ymax>385</ymax>
     </bndbox>
   </object>
   <object>
-    <name>electro</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>287</xmin>
-      <ymin>347</ymin>
-      <xmax>378</xmax>
-      <ymax>440</ymax>
+      <xmin>210</xmin>
+      <ymin>203</ymin>
+      <xmax>406</xmax>
+      <ymax>395</ymax>
     </bndbox>
   </object>
   <object>
-    <name>minion</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>389</xmin>
-      <ymin>346</ymin>
-      <xmax>480</xmax>
-      <ymax>437</ymax>
+      <xmin>510</xmin>
+      <ymin>219</ymin>
+      <xmax>615</xmax>
+      <ymax>321</ymax>
     </bndbox>
   </object>
   <object>
-    <name>valk</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>488</xmin>
-      <ymin>347</ymin>
-      <xmax>578</xmax>
-      <ymax>437</ymax>
+      <xmin>807</xmin>
+      <ymin>198</ymin>
+      <xmax>964</xmax>
+      <ymax>353</ymax>
     </bndbox>
   </object>
   <object>
-    <name>witch</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>586</xmin>
-      <ymin>350</ymin>
-      <xmax>678</xmax>
-      <ymax>438</ymax>
+      <xmin>1056</xmin>
+      <ymin>197</ymin>
+      <xmax>1196</xmax>
+      <ymax>348</ymax>
     </bndbox>
   </object>
   <object>
-    <name>bowler</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>682</xmin>
-      <ymin>350</ymin>
-      <xmax>772</xmax>
-      <ymax>438</ymax>
+      <xmin>1206</xmin>
+      <ymin>200</ymin>
+      <xmax>1407</xmax>
+      <ymax>390</ymax>
     </bndbox>
   </object>
   <object>
-    <name>healer</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>15</xmin>
-      <ymin>449</ymin>
-      <xmax>83</xmax>
-      <ymax>513</ymax>
+      <xmin>4</xmin>
+      <ymin>403</ymin>
+      <xmax>170</xmax>
+      <ymax>569</ymax>
     </bndbox>
   </object>
   <object>
-    <name>pekka</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>93</xmin>
-      <ymin>448</ymin>
-      <xmax>180</xmax>
-      <ymax>515</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>miner</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>190</xmin>
-      <ymin>448</ymin>
-      <xmax>276</xmax>
-      <ymax>536</ymax>
-    </bndbox>
-  </object>
-  <object>
-    <name>hog</name>
-    <pose>Unspecified</pose>
-    <truncated>0</truncated>
-    <difficult>0</difficult>
-    <bndbox>
-      <xmin>393</xmin>
-      <ymin>449</ymin>
-      <xmax>480</xmax>
+      <xmin>209</xmin>
+      <ymin>427</ymin>
+      <xmax>323</xmax>
       <ymax>537</ymax>
     </bndbox>
   </object>
   <object>
-    <name>golem</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>490</xmin>
-      <ymin>449</ymin>
-      <xmax>577</xmax>
-      <ymax>537</ymax>
+      <xmin>357</xmin>
+      <ymin>405</ymin>
+      <xmax>530</xmax>
+      <ymax>574</ymax>
     </bndbox>
   </object>
   <object>
-    <name>lava</name>
+    <name>vw</name>
     <pose>Unspecified</pose>
     <truncated>0</truncated>
     <difficult>0</difficult>
     <bndbox>
-      <xmin>587</xmin>
-      <ymin>449</ymin>
-      <xmax>674</xmax>
-      <ymax>537</ymax>
+      <xmin>535</xmin>
+      <ymin>403</ymin>
+      <xmax>709</xmax>
+      <ymax>568</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>798</xmin>
+      <ymin>418</ymin>
+      <xmax>946</xmax>
+      <ymax>556</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1072</xmin>
+      <ymin>440</ymin>
+      <xmax>1175</xmax>
+      <ymax>540</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>vw</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1235</xmin>
+      <ymin>411</ymin>
+      <xmax>1394</xmax>
+      <ymax>563</ymax>
     </bndbox>
   </object>
 </annotation>
